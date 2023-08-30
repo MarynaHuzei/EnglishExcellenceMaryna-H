@@ -1,0 +1,19 @@
+.tittle {
+  max-width: 295px;
+  font-family: Manrope;
+  color: #fff;
+  font-size: 38px;
+  font-weight: 700;
+  line-height: 1.05;
+}
+.color-tittle {
+  color: #bee8cc;
+}
+.leave-an-application-link {
+  color: #fff;
+  font-family: Manrope;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 1.7;
+}
